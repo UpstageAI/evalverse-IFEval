@@ -2,3 +2,7 @@ absl_py
 langdetect
 nltk
 immutabledict
+vllm
+transformers
+ray
+numpy
